@@ -3,10 +3,8 @@
 
 
 ## Usage/Examples
-
+###### index.html | line no : 36
 ```javascript
-<!-- index.html | line no : 36 -->
-
 const redirectUrl = "<your custom url>";
 ```
 
